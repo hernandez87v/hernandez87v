@@ -31,6 +31,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 
 <br />
+<br />
 
 ### Hobbies:
 
@@ -46,7 +47,7 @@
 
 [website]: https://vladhernandez.dev/
 [linkedin]: https://www.linkedin.com/in/vlad-hernandez/
-[prusa]: https://github.com/topics/prusa
+[prusa]: https://github.com/prusa3d
 [betaflight]: https://github.com/betaflight
 [raspberrypi]: https://github.com/topics/raspberry-pi
 [arduino]: https://github.com/topics/arduino
