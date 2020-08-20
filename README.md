@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[image](https://j.gifs.com/Mwv1GQ.gif)
+![image](https://j.gifs.com/Mwv1GQ.gif)
 
 ---
 
