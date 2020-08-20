@@ -41,7 +41,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://j.gifs.com/Mwv1GQ.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SvM1HfdNAZUcxtColU/giphy.gif" />
 
 ---
 
