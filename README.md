@@ -1,4 +1,4 @@
-### Hello there, I'm Vlad - [website] 👋
+### 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚅𝚕𝚊𝚍 👋
 
 ### Connect with me:
 
@@ -36,6 +36,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][raspberrypi]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />][ubuntu]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 
 <br />
 <br />
@@ -49,6 +50,7 @@
 [raspberrypi]: https://github.com/topics/raspberry-pi
 [arduino]: https://github.com/topics/arduino
 [ubuntu]: https://github.com/topics/ubuntu
+[linux]: https://github.com/topics/linux
 [vscode]: https://github.com/topics/vscode
 [terminal]: https://github.com/topics/terminal
 [html]: https://github.com/topics/html
