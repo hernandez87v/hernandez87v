@@ -1,13 +1,13 @@
 ### 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚅𝚕𝚊𝚍 👋
 
-### Connect with me:
+### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
 [<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="vladhernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
@@ -29,7 +29,7 @@
 
 <br />
 
-### Hobbies and Interests:
+### 𝙷𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚗𝚍 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
 
 [<img align="left" alt="GitHub" width="26px" src="https://avatars3.githubusercontent.com/u/14859759?s=200&v=4" />][prusa]
 [<img align="left" alt="GitHub" width="26px" src="https://avatars0.githubusercontent.com/u/19597933?s=200&v=4" />][betaflight]
