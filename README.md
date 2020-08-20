@@ -1,5 +1,9 @@
 ### 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝚅𝚕𝚊𝚍 👋
 
+![Image](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
+
+<br />
+
 ### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
 [<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,8 +44,6 @@
 
 <br />
 <br />
-
-![Image](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
 
 ---
 
