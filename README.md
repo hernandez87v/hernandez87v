@@ -35,8 +35,9 @@
 ### Hobbies:
 
 [<img align="left" alt="GitHub" width="26px" src="https://avatars3.githubusercontent.com/u/14859759?s=200&v=4" />][prusa]
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+[<img align="left" alt="GitHub" width="26px" src="https://avatars0.githubusercontent.com/u/19597933?s=200&v=4" />][betaflight]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][raspberrypi]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 
 <br />
 <br />
@@ -46,3 +47,6 @@
 [website]: https://vladhernandez.dev/
 [linkedin]: https://www.linkedin.com/in/vlad-hernandez/
 [prusa]: https://github.com/topics/prusa
+[betaflight]: https://github.com/betaflight
+[raspberrypi]: https://github.com/topics/raspberry-pi
+[arduino]: https://github.com/topics/arduino
