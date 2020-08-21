@@ -4,7 +4,7 @@
 
 <br /> -->
 
-<img src="https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true" width="830" height="466">
+<img src="https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true" width="588" height="322">
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
