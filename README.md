@@ -1,6 +1,6 @@
 ### 👋 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 ...
 
-![Image](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
+![](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
