@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### 👇🏼 Contact me if hiring:
+### 👇🏼 Contact if hiring:
 
 [<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
