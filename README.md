@@ -1,6 +1,6 @@
 ### 👋 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 ...
 
-![website](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
+![website](drone-flight.gif)
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
