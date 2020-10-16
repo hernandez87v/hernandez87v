@@ -56,6 +56,7 @@
 
 [website]: https://vladhernandez.dev/
 [linkedin]: https://www.linkedin.com/in/vlad-hernandez/
+[instagram]: https://www.instagram.com/vancity.exe/
 [prusa]: https://github.com/prusa3d
 [emuflight]: https://github.com/emuflight
 [betaflight]: https://github.com/betaflight
