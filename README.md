@@ -29,8 +29,6 @@
 
 <br />
 
----
-
 ### 𝙷𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚗𝚍 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
 
 [<img align="left" alt="GitHub" width="26px" src="https://avatars3.githubusercontent.com/u/14859759?s=200&v=4" />][prusa]
