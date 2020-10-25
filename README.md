@@ -1,13 +1,10 @@
 ### 👋 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 ...
 
-<!-- ![Image](https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true)
-
-<br /> -->
 <p align="center">
 <img src="https://github.com/hernandez87v/hernandez87v/blob/master/drone-flight.gif?raw=true" width="588" height="322">
 <p>
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+### 🔠 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 🛠 𝚃𝚘𝚘𝚕𝚜:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -29,7 +26,7 @@
 
 <br />
 
-### 𝙷𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚗𝚍 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
+### 🚀 𝙷𝚘𝚋𝚋𝚒𝚎𝚜 𝚊𝚗𝚍 🥧 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜:
 
 [<img align="left" alt="GitHub" width="26px" src="https://avatars3.githubusercontent.com/u/14859759?s=200&v=4" />][prusa]
 [<img align="left" alt="GitHub" width="26px" src="https://avatars1.githubusercontent.com/u/52839789?s=200&v=4" />][emuflight]
