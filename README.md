@@ -14,13 +14,13 @@
 [<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
+[<img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />][pwa]
 [<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />][figma]
 [<img align="left" alt="gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][gatsby]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />][ruby]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][rails]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />][pwa]
 [<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
 [<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
@@ -44,9 +44,9 @@
 
 ### 👇🏼 Contact if hiring:
 
-[<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 [<img align="left" alt="vladhernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="vancity.exe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -64,20 +64,20 @@
 [arduino]: https://github.com/topics/arduino
 [ubuntu]: https://github.com/topics/ubuntu
 [linux]: https://github.com/topics/linux
-[vscode]: https://github.com/topics/vscode
-[terminal]: https://github.com/topics/terminal
 [html]: https://github.com/topics/html
 [css]: https://github.com/topics/css
 [javascript]: https://github.com/topics/javascript
 [react]: https://github.com/topics/react
+[figma]: https://github.com/topics/figma
+[firebase]: https://github.com/topics/firebase
+[pwa]: https://github.com/topics/pwa
 [gatsby]: https://github.com/topics/gatsby
 [sass]: https://github.com/topics/sass
 [ruby]: https://github.com/topics/ruby
 [rails]: https://github.com/topics/rails
 [nodejs]: https://github.com/topics/nodejs
-[pwa]: https://github.com/topics/pwa
 [npm]: https://github.com/topics/npm
 [postgresql]: https://github.com/topics/postgresql
 [docker]: https://github.com/topics/docker
-[firebase]: https://github.com/topics/firebase
-[figma]: https://github.com/topics/figma
+[vscode]: https://github.com/topics/vscode
+[terminal]: https://github.com/topics/terminal
