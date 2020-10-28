@@ -46,6 +46,7 @@
 
 [<img align="left" alt="vancity.exe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="vancity_exe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ---
@@ -53,6 +54,7 @@
 [website]: https://vladhernandez.dev/
 [linkedin]: https://www.linkedin.com/in/vlad-hernandez/
 [instagram]: https://www.instagram.com/vancity.exe/
+[twitter]: https://twitter.com/vancity_exe
 [prusa]: https://github.com/prusa3d
 [emuflight]: https://github.com/emuflight
 [betaflight]: https://github.com/betaflight
