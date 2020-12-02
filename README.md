@@ -1,8 +1,8 @@
 ### 👋 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 ...
 
-<p align="center">
-<img src="https://github.com/hernandez87v/hernandez87v/blob/master/Drone-Starwars.gif?raw=true" width="588" height="322">
-<p>
+<a href="https://youtu.be/tiHZvM5vfAA" align="center">
+<img src="https://github.com/hernandez87v/hernandez87v/blob/master/Drone-Starwars.gif?raw=true" alt="star wars themed drone flight" width="588" height="322">
+<a>
 
 ### 🔠 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 🛠 𝚃𝚘𝚘𝚕𝚜:
 
