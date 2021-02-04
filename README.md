@@ -41,13 +41,13 @@
 
 ### 👇🏼 Contact if hiring:
 
-[<img align="left" alt="vladhernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vladhernandez | LinkedIn" width="22px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
 
-[<img align="left" alt="vladhernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vladhernandez.dev" width="22px" src="https://img.icons8.com/doodle/2x/internet.png" />][website]
 
-[<img align="left" alt="vancity.exe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vancity.exe | Instagram" width="22px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 
-[<img align="left" alt="vancity_exe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vancity_exe | Twitter" width="22px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
 <br />
 
 ---
