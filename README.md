@@ -39,7 +39,7 @@
 
 <br />
 
-### 👇🏼 Contact if hiring:
+### 👇🏼 Contact:
 
 [<img align="left" alt="vladhernandez | LinkedIn" width="22px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
 
