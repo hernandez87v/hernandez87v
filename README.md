@@ -35,7 +35,7 @@
 <br />
 
 ---
-
+[linkedin]: https://www.linkedin.com/in/vlad-hernandez/
 [instagram]: https://www.instagram.com/vancity.exe/
 [prusa]: https://github.com/prusa3d
 [blender]: https://www.blender.org/
